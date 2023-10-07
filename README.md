@@ -42,37 +42,37 @@ Se nos pide crear un script asociado al cubo en el cual se indican de manera pub
     }
 ```
 
-![ej03-1](Resources/ej03-1.gif)
+![ej03-1](Resources/eje03-1.gif)
 
 En este primer GIF se muestra el comportamiento normal del script, a continuación se realizarán una serie de cambios:
 
 #### Duplicar las coordenadas de moveDirection:
 
-![ej03-2](Resources/ej03-2.gif)
+![ej03-2](Resources/eje03-2.gif)
 
 Se puede observar como el cubo se mueve el doble de rápido con respecto al comportamiento normal.
 
 #### Duplicar la velocidad:
 
-![ej03-3](Resources/ej03-3.gif)
+![ej03-3](Resources/eje03-3.gif)
 
 Se obtienen los mismos resultados observados al duplicar las coordenadas de moveDirection.
 
 #### Velocidad menor a 1:
 
-![ej03-4](Resources/ej03-4.gif)
+![ej03-4](Resources/eje03-4.gif)
 
 El cubo se moverá lentamente, en caso de utilizar números negativos el cubo irá en dirección contraria.
 
 #### Cubo en altura mayor que 0:
 
-![ej03-5](Resources/ej03-5.gif)
+![ej03-5](Resources/eje03-5.gif)
 
 No hay cambios, el cubo se mueve en la dirección y velocidad seleccionadas, simplemente a una mayor altura.
 
 #### Cambiar de movimiento relativo a movimiento global:
 
-![ej03-6](Resources/ej03-6.gif)
+![ej03-6](Resources/eje03-6.gif)
 
 No hay cambios significativos.
 
